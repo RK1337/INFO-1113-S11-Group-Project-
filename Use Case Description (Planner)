@@ -1,0 +1,6 @@
+1.  User logs into Application 
+2.  User will be prompted to sign up with email/ account
+3.  user will be welcomed with all other functions of the application 
+4.  if user selects planner function first, they will go to information input screen 
+5.  users will input data/information required (reminders, important dates and alarms etc.)
+6.  when information/data process is done the user is then free to edit data and move to other functions of the application (E-Wallet and Contact Book)
